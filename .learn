@@ -8,3 +8,5 @@ languages:
   - ruby
   - html
 resources: []
+
+parent_template: git@github.com:learn-co-curriculum/sinatra-yield-readme.git
